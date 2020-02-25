@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jjfis\\source\\repos\\Mastermind-Technical-Test\\Mastermind\\Mastermind.csproj": {}
+    "C:\\Users\\jjfis\\Source\\Repos\\Mastermind-Technical-Test\\Mastermind\\Mastermind.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jjfis\\source\\repos\\Mastermind-Technical-Test\\Mastermind\\Mastermind.csproj": {
+    "C:\\Users\\jjfis\\Source\\Repos\\Mastermind-Technical-Test\\Mastermind\\Mastermind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jjfis\\source\\repos\\Mastermind-Technical-Test\\Mastermind\\Mastermind.csproj",
+        "projectUniqueName": "C:\\Users\\jjfis\\Source\\Repos\\Mastermind-Technical-Test\\Mastermind\\Mastermind.csproj",
         "projectName": "Mastermind",
-        "projectPath": "C:\\Users\\jjfis\\source\\repos\\Mastermind-Technical-Test\\Mastermind\\Mastermind.csproj",
+        "projectPath": "C:\\Users\\jjfis\\Source\\Repos\\Mastermind-Technical-Test\\Mastermind\\Mastermind.csproj",
         "packagesPath": "C:\\Users\\jjfis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jjfis\\source\\repos\\Mastermind-Technical-Test\\Mastermind\\obj\\",
+        "outputPath": "C:\\Users\\jjfis\\Source\\Repos\\Mastermind-Technical-Test\\Mastermind\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
